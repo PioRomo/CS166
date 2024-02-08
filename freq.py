@@ -1,3 +1,4 @@
+#Author: Pio Romo
 import sys 
 
 #define our variables
